@@ -1,0 +1,18 @@
+module peakdetect
+
+go 1.21
+
+require (
+	github.com/andr31g/peak-detector v0.0.0-20250106035207-b53d4a77f038
+	github.com/urfave/cli/v2 v2.27.5
+)
+
+require (
+	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
+	github.com/mowshon/iterium v1.0.0 // indirect
+	github.com/russross/blackfriday/v2 v2.1.0 // indirect
+	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
+	golang.org/x/exp v0.0.0-20230307190834-24139beb5833 // indirect
+)
+
+//replace github.com/andr31g/peak-detector => ../PeakDetector
