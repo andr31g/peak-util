@@ -3,7 +3,7 @@ module peakdetect
 go 1.21
 
 require (
-	github.com/andr31g/peak-detector v0.0.0-20250106035207-b53d4a77f038
+	github.com/andr31g/peak-detector v0.0.0-20250106041241-67487454815f
 	github.com/urfave/cli/v2 v2.27.5
 )
 
